@@ -1,4 +1,4 @@
-# KadesGDPS-2.11
+# KadesGDPS-2.13. Gdps version: 2.11
 This is the amazing guide to making the new 2.11 gdps
 # Souce Use
 This source is ment for people to learn how to make a gdps not to copy mine xD
