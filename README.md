@@ -17,7 +17,7 @@ root then you cant modify files in there (unless you give your self the www-data
 Now do `git clone -b permsDashboardUpdate https://github.com/Cvolton/GMDprivateServer.git` We use cvoltons server as a base (do `sudo apt-get install git`
 if its not a command). Now if you want to you could install phpmyadmin which i think you should but thats your prefence
 im not gonna use the mysql term. `sudo apt-get install phpmyadmin` `sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf` `sudo ln -s /usr/share/phpmyadmin /var/www/html/` `sudo a2enconf phpmyadmin` `sudo service apache2 reload`
-after that navigate into http://(your_vps_ip)/phpmyadmin then type the user detials you set in the install of phpmyadmin. Then download https://codeload.github.com/Cvolton/GMDprivateServer/zip/master then make a database named geometrydash. then take the .db in the zip and upload it into that database. 
+after that navigate into http://(your_vps_ip)/phpmyadmin then type the user detials you set in the install of phpmyadmin. Then download https://codeload.github.com/Cvolton/GMDprivateServer/zip/permsDashboardUpdate then make a database named geometrydash. then take the .db in the zip and upload it into that database. 
 # Config
 right that was alot but now is the hard part for most people. we have to go into the files of the git you put in your /var/www/html/ folder and then rename the folder to database then go into it then go to /config/connection.php it should look like this
 ```
