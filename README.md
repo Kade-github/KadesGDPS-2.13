@@ -1,5 +1,5 @@
-# KadesGDPS-2.0
-This is the seccond and inproved version of kadesgdps runing on CGDPS
+# KadesGDPS-2.11
+This is the amazing guide to making the new 2.11 gdps
 # Souce Use
 This source is ment for people to learn how to make a gdps not to copy mine xD
 # How to install a gdps on your linux apache2 server
