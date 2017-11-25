@@ -54,3 +54,5 @@ Also priority exists because you can assign multiple roles to 1 person, the GDPS
 I hope I didn't make this explaination too confusing. I plan to make a role manager in the dashboard later on, but I'm currently focusing on updating the GDPS to 2.11 and getting the system to actually work, since commands for example still depend on the old isAdmin variable instead of the permissions system
 ```
 And really thats it. For 2.11 atleast
+## What if i want robtops color
+Change your account id in accounts and change your extid in users to 71
